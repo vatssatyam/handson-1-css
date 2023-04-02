@@ -1,0 +1,44 @@
+h1{color: red;}
+h2{color:tomato;
+font-style: italic;
+}
+ol{color: rgb(133, 51, 16);
+line-height: 50px;
+}
+.lt{
+text-decoration: line-through;
+}
+.bg{background-color: yellow;}
+#td{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.ls{
+    font: italic;
+    letter-spacing: 10px;
+    color: brown;
+}
+.bgb{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.ts{
+letter-spacing: 50px;
+}
+.pc{
+    text-decoration: brown;
+}
+p{
+    color: brown;
+}
+a{
+    background-color: yellow;
+    text-decoration: none;
+    font-style: italic;
+    color: brown;
+    font-size: medium;
+}
+
+
